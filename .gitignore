@@ -1,0 +1,15 @@
+# dependencies
+**/node_modules
+
+# misc
+**/.DS_Store
+
+# environment config
+**/.env
+
+# production
+**/build
+**/npm-debug.log*
+
+**/yarn.lock
+**/package-lock.json
