@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Mehdi
-### Experienced front-end engineer with 6+ years of experience in the high-tech industry. Possessing a deep understanding of the software development lifecycle and a great ability to communicate effectively with other teams. I am consistently focused on learning and eager to tackle more complex problems.
+### Experienced front-end engineer with 7+ years of experience in the high-tech industry. Possessing a deep understanding of the software development lifecycle and a great ability to communicate effectively with other teams. I am consistently focused on learning and eager to tackle more complex problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
